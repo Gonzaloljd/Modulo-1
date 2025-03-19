@@ -1,8 +1,8 @@
 # Modulo-1
 TECNICAS
 ## Grupo vantablack
-*1
-*2
+* Tomas Cornejo-13321
+* Gonzalo Juarez-13498
 *3
 *4
 *5
