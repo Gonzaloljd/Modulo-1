@@ -1,5 +1,5 @@
 # Modulo-1
-TECNICAS
+TECNICAS Y HERRAMIENTAS I
 ## Grupo vantablack
 * Tomas Cornejo-13321
 * Gonzalo Juarez-13498
