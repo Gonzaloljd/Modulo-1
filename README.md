@@ -5,6 +5,6 @@ TECNICAS Y HERRAMIENTAS I
 * Tomas Cornejo-13321
 * Gonzalo Juarez-13498
 * Tomas Paganini-13509
-*4
+*4 Esteban Lombardo - 13377
 *5
 hola gonza soy lucas
