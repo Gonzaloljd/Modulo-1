@@ -3,7 +3,7 @@ TECNICAS Y HERRAMIENTAS I
 ## Grupo vantablack
 * Tomas Cornejo-13321
 * Gonzalo Juarez-13498
-*3
+* Tomas Paganini-13509
 *4
 *5
 hola gonza soy lucas
